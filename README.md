@@ -19,7 +19,7 @@
 
 ## 环境依赖
 ```bash
-pip install taichi numpy
+pip install -r requirements.txt
 ```
 - Python 3.8 ~ 3.11
 - Taichi（GPU 加速）
