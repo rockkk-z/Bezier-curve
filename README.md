@@ -29,7 +29,7 @@ pip install -r requirements.txt
 1. 克隆/下载项目代码
 2. 直接运行主程序：
 ```bash
-python 你的文件名.py
+python main.py
 ```
 
 ## 交互操作
